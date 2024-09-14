@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to Amit Tripathy's Capstone Project 1</title>
+</head>
+<body>
+  <div class="container">
+    <h1 style="color: #0066ff; font-size: 2.5em; text-align: center;">Welcome to Amit Tripathy's Capstone Project 1</h1>
+    <p style="color: #333333; font-size: 1.2em; margin-bottom: 20px;">Powered by <strong>Amit Tripathy</strong></p>
+    <div class="project-details" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">
+      <h2>Project Details</h2>
+      <h3 style="color: #009688;">Resilient and Scalable Web Application Deployment on AWS</h3>
+      <p style="color: #555555;">This project involves designing and implementation of a highly available and scalable web application infrastructure on AWS.</p>
+      <p style="color: #555555;">The architecture will leverage AWS services to ensure Fault Tolerance, Load Balancing, and Secure User Access.</p>
+    </div>
+  </div>
+</body>
+</html>
